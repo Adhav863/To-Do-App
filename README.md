@@ -1,3 +1,4 @@
 # todoapp
 
-A new Flutter project.
+A Classic To-Do App.
+
